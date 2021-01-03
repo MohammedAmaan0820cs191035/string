@@ -1,0 +1,7 @@
+public class main {
+public static void main (string[] args){
+string s = "thisisthehugekalyanistring";
+system.out.println(s.endwith"huge"));
+system.out.println(s.endwith("ring"));
+system.out.println(s.endwith("g"));
+}
