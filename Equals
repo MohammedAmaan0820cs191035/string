@@ -1,0 +1,9 @@
+public class main {
+public static void main (string[] args){
+string s1 = "hii , I'm ";
+string s2 = "md";
+string s3 = "amaan";
+system.out.println(s1.concat(s2));
+system.out.println(s1.concat(s3));
+}
+}
