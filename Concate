@@ -1,0 +1,7 @@
+public class main {
+public static void main (string[] args){
+string s1 = "yes";
+string s2 = "say amaan";
+system.out.println(s1.concat(s2));
+}
+}
