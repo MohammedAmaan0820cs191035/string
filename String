@@ -1,0 +1,9 @@
+public class main {
+public static void main (string[] args){
+string s1 = "hello";
+string s2 = "hello";
+string s3 = "hello";
+system out.println(s1);
+system.out.println(s2);
+system.out.println(s3);
+}
